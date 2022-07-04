@@ -11,3 +11,12 @@ git push -u origin master 	=
 	 -u mean use this repo for any command come later
 	 master mean branch in project
 
+======================================
+git pull 	= update all files
+git pull file 	=
+
+======================================
+git branch -l	= list all branch
+git branch name = create 
+
+git checkout name = swap bitween branch
