@@ -1,0 +1,7 @@
+git inti 	= Initialized empty Git repository 
+
+git clone link 	= to clone project 
+
+git add . 	= staging the file
+
+git commit -m "message" 	
