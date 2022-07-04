@@ -4,4 +4,10 @@ git clone link 	= to clone project
 
 git add . 	= staging the file
 
-git commit -m "message" 	
+git commit -m "message" 
+
+git push -u origin master 	= 
+	 push change to remote 
+	 -u mean use this repo for any command come later
+	 master mean branch in project
+
